@@ -16,3 +16,11 @@ Farxod Rixsiboev
 ## Education
 
 - Westminster International University in Tashkent
+
+## Experience
+
+## Language
+
+- Uzbek (Native)
+- English (B2)
+- Russian (B1
