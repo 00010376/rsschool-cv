@@ -51,7 +51,11 @@
   color: black;
   padding: 0px 30px 0px 0px;
 }
-
+.item:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
 .section-1,
 .section-2 {
   width: 25%;
@@ -104,6 +108,9 @@ ul.skills li {
 .aside-container {
   background-color: #fafafab0;
 }
+.level-test:hover {
+  transform: scale(1.5);
+}
 
 .aside-container,
 .right-container {
@@ -122,6 +129,7 @@ ul.skills li {
   border-radius: 5px;
   border: 2px solid gray;
   margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 .footer-logo-github {
@@ -156,4 +164,10 @@ p a {
 
 section {
   padding: 20px;
+}
+.header,
+.main-container,
+.right-container,
+.footer-container {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.295);
 }
